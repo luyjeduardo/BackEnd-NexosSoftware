@@ -1,0 +1,17 @@
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\bin\Debug\net5.0\Dominio.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\bin\Debug\net5.0\Infraestructura.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\bin\Debug\net5.0\Infraestructura.pdb
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete

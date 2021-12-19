@@ -1,0 +1,17 @@
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\bin\Debug\net5.0\Infraestructura.deps.json
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\bin\Debug\net5.0\Infraestructura.runtimeconfig.json
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\bin\Debug\net5.0\Infraestructura.runtimeconfig.dev.json
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\bin\Debug\net5.0\Infraestructura.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\bin\Debug\net5.0\ref\Infraestructura.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\bin\Debug\net5.0\Infraestructura.pdb
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\bin\Debug\net5.0\Dominio.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\bin\Debug\net5.0\Dominio.pdb
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\obj\Debug\net5.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\obj\Debug\net5.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\obj\Debug\net5.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\obj\Debug\net5.0\Infraestructura.AssemblyInfo.cs
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\obj\Debug\net5.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\obj\Debug\net5.0\Infraestructura.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\obj\Debug\net5.0\ref\Infraestructura.dll
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\obj\Debug\net5.0\Infraestructura.pdb
+C:\Users\Luis Eduardo Villarr\source\repos\BackEndNexos-Software\Infraestructura\obj\Debug\net5.0\Infraestructura.genruntimeconfig.cache
